@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# Access-Your-Abilities
-Minecraft Modpack designed for mobility and visual accessibility
-=======
 # Access your abilities
 
 This modpack was made with mostly mobility and visual accessibility in mind, as it's designed around the problems I personally encounter, lol
@@ -31,7 +27,3 @@ This modpack was made with mostly mobility and visual accessibility in mind, as 
 | Sodium | Disable particles individually, other visual options | Mod Menu |
 | Shulker Box Tooltip | Visual tooltip for shulkers | Mod Menu |
 | Tooltip fix | Stops long tooltips from running off the page | Mod Menu |
-
-
-
->>>>>>> 85d6a48 (I never know what to say here)

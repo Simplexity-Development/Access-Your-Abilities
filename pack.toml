@@ -1,0 +1,17 @@
+name = "Access Your Abilities"
+author = "RhythmicSys"
+version = "1.0.1"
+description = "Modpack designed for mobility and visual accessibility"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "bb07b84c45260d95426081c254db2adc47329dac403a5e1c9abcbd72e1d28825"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.6"
+
+[options]
+acceptable-game-versions = ["1.16.5", "1.19", "1.19.1", "1.19.2"]

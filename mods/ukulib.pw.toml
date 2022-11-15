@@ -1,0 +1,13 @@
+name = "ukulib"
+filename = "ukulib-0.3.0+1.16.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y8uFrUil/versions/mhcAhSey/ukulib-0.3.0%2B1.16.5.jar"
+hash-format = "sha1"
+hash = "97f6973a7ae7c8ab6c2989f5780e6dda4cb47732"
+
+[update]
+[update.modrinth]
+mod-id = "Y8uFrUil"
+version = "mhcAhSey"

@@ -1,0 +1,316 @@
+hash-format = "sha256"
+
+[[files]]
+file = "LICENSE"
+hash = "ca3f168bba2355b52afd23164d481e9800e67011ccf69f510d4c6c1e39792bbb"
+
+[[files]]
+file = "README.md"
+hash = "f64c22f21a5bfcd1af996e76e237f072f1327833641d1c41bb0d889e94b4f9f9"
+
+[[files]]
+file = "config/afkpeace/config.toml"
+hash = "8bc34b83532f45ed976eade168d1082e106026e9e8f4ccaa6274ac6de89ac911"
+
+[[files]]
+file = "config/appleskin.json5"
+hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
+
+[[files]]
+file = "config/auto-crouch.json5"
+hash = "3974a11781492127cc3ce3dd14f9143841807d294f4d37be519dc2dc0ae1deb3"
+
+[[files]]
+file = "config/autorun.properties"
+hash = "30c137a9740d9cfec4d357cbb1825d6c8aea473af3ebd10d4f38eedf57f21c5c"
+
+[[files]]
+file = "config/betterhurtcam.toml"
+hash = "4b74ae5293d99b29a4007563d2461c34a8b5937a3b5e36797ceafe0c20f0547f"
+
+[[files]]
+file = "config/brb.toml"
+hash = "154ce0f19b8f637eaab082b6153b5cb70003719d4241385f83f38838188376cf"
+
+[[files]]
+file = "config/cull-less-leaves.json"
+hash = "1a69b7622bf6619a6ac14d40d907513c2e4c517874b3442387ae3f55ca3cd5fc"
+
+[[files]]
+file = "config/draggable-resource-packs.json5"
+hash = "bf6b553c04efb5177a914cc8de5bfb41177f83b2c2686743f9cbbc542178318d"
+
+[[files]]
+file = "config/extremesoundmuffler.json5"
+hash = "50edb6ab0343494d8851547c756971135cff0b2457d31cdee76746c4ca37300f"
+
+[[files]]
+file = "config/fabric/indigo-renderer.properties"
+hash = "4e1ca63f929dd4d825ec5ee2c2c42c797435d35749381c3a51f66c272141b3a5"
+
+[[files]]
+file = "config/flighthelper.json"
+hash = "75cabca6db8db93e8f2560b89d48057b824d8f879d02805b486bd7cb64230d93"
+
+[[files]]
+file = "config/gamma_utils.json5"
+hash = "20ec25e6d1d9e42fbe59ad03aa9fd2687811a0a840992aea94547249a341c015"
+
+[[files]]
+file = "config/inspecio.json"
+hash = "25ff404af9fb43fcdfd85ea975d4eeae076be3fb57a35f760a78e53fd87e49b4"
+
+[[files]]
+file = "config/lightoverlay.properties"
+hash = "d2aa65f3538d429519098986edd167f7e9c9fe9bb25a105b46fb409a0ea5ea76"
+
+[[files]]
+file = "config/midnightlib.json"
+hash = "6b52769b3358f87b591871a4444f3cef8124a9dced0da1755f18db2f47adf4f3"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "503f96151dab202359895d267084c5ca81604cf9a3455446c20a5c0c69ec7cdb"
+
+[[files]]
+file = "config/mousewheelie.hjson"
+hash = "f7e277666de45885aa5931c512129946ae53216a5cabddba7498f4dc9a6323bb"
+
+[[files]]
+file = "config/no_fog.json"
+hash = "2e8e83d3855df0733b4d33682103182a7fb84d1821addbffd5b3412a774e34a5"
+
+[[files]]
+file = "config/ordinarytweaks.json"
+hash = "c729799246bb96a1d4c7db03fca2d82ee3480976e5ceb1b8239e2dcf2dc4fd27"
+
+[[files]]
+file = "config/purpurclient.conf"
+hash = "67a4333d2372ad9daedc4bbd995aeac95f7ea27944e5590bbc10d16afe892d1e"
+
+[[files]]
+file = "config/quilt-loading-screen.json"
+hash = "f9e2b643d5dc4c6538972342d4b841ba0aa817485dbd9eb720acba5beb6a66ff"
+
+[[files]]
+file = "config/quilt/qsl/registry.toml"
+hash = "5ef23446d609c713e513f80131eefadefe46bc3b016d58088b18a8ef88ee2217"
+
+[[files]]
+file = "config/shulkerboxtooltip.json5"
+hash = "145b22585ed8fa594e0933b7e9863ef00deaa0a11a75e5a39905236abe25df06"
+
+[[files]]
+file = "config/sodium-mixins.properties"
+hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
+
+[[files]]
+file = "config/sodium-options.json"
+hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
+
+[[files]]
+file = "credits.txt"
+hash = "c037ac1e74d4f78e6963b176317522dd2496b799e8f70dbe713aa23bb03ab037"
+
+[[files]]
+file = "mods/afkpeace.pw.toml"
+hash = "1601ec20132011c48caed313c560ed27d244f6083ee8c300b0c15b54513e2343"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "651bb1998c83a40530d6cb95d40bd13e2f0f8ab064e0efdd3630f648cbe7f4ed"
+metafile = true
+
+[[files]]
+file = "mods/augmented-autojump.pw.toml"
+hash = "e8527933a80c6fbea6b7c6ec36b2d6728f1609d526ff9e02dd87eb4362b92ed5"
+metafile = true
+
+[[files]]
+file = "mods/auto-crouch.pw.toml"
+hash = "84a6021079b44ee56b390d4e02941c33f5950a5ef32b5d8c71a54f3c1a3d7129"
+metafile = true
+
+[[files]]
+file = "mods/autorun.pw.toml"
+hash = "b294f67ca50e4cccc40a75b3314f50ef3e8aadc3e7300049a947e26a90d8ae06"
+metafile = true
+
+[[files]]
+file = "mods/betterbarriers.pw.toml"
+hash = "a3a894d67df218b131adc4ba081077a08a9bb52afa979b03e0f91cb1b7780f54"
+metafile = true
+
+[[files]]
+file = "mods/bettercommandblockui.pw.toml"
+hash = "b3195b4c11fae6ae753dc3ba2a40d2721c12619233cd78918d4ea95e68e87299"
+metafile = true
+
+[[files]]
+file = "mods/betterhurtcam.pw.toml"
+hash = "3e9cb96676eddcb6d3c488553e9e5aab850bc710ddd415cf79d40c95129d0c87"
+metafile = true
+
+[[files]]
+file = "mods/brb.pw.toml"
+hash = "17ce0664c6d4715aaa97169808dae48d9703749eb72249abcaee110f82f56b03"
+metafile = true
+
+[[files]]
+file = "mods/chat-up.pw.toml"
+hash = "f2d6d0bf07893bd248bce474400e63f83d0a6c151733bf1fdb59fe8f003c25da"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
+metafile = true
+
+[[files]]
+file = "mods/colorful-subtitles.pw.toml"
+hash = "03b5eb0f55147afddae6ed081ca8457d6f847d57d6dbcf568207f658a26605fc"
+metafile = true
+
+[[files]]
+file = "mods/cull-less-leaves.pw.toml"
+hash = "c06e098c6d6eda6da4492e4a8dff1796e6081bbd30f487ffb89e1ed3c485e805"
+metafile = true
+
+[[files]]
+file = "mods/dont-drop-it.pw.toml"
+hash = "2956bb668048b08351d5a4158be377b76902bfb60600c0bb7d452cdcc999e97d"
+metafile = true
+
+[[files]]
+file = "mods/dontmineit.pw.toml"
+hash = "3fd6a1d17a9678d75d724693b2ac3b83594f548fb3237d08f1f9f0f61d0768c1"
+metafile = true
+
+[[files]]
+file = "mods/flighthelper.pw.toml"
+hash = "c29a2266f5563c8e56e060a59428740a5e69a9e0ab5eb941cc7afde2bb0548b0"
+metafile = true
+
+[[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "61c9106111d0e22864a9a68f678faa5094fc1cbdfdc50a72d3898b1bc217a032"
+metafile = true
+
+[[files]]
+file = "mods/inspecio.pw.toml"
+hash = "373a56d7f4fb25661a0585492f7ea490e7613f1191e588fec08782438d52e1fd"
+metafile = true
+
+[[files]]
+file = "mods/light-overlay.pw.toml"
+hash = "54037e4122f477f500dc3002b2f0ab9cda99d0fceb70da1d163be1afc99ec060"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "4ff1e58c9c7fdce5cd5a392987c3013d02ce63ee2ed4149098389a85caac2838"
+metafile = true
+
+[[files]]
+file = "mods/moremousekeybinds.pw.toml"
+hash = "2d872801caa4d61083e63b4597e99a4e375f946dd1e59eef09d242eb95ff0fa0"
+metafile = true
+
+[[files]]
+file = "mods/mouse-wheelie.pw.toml"
+hash = "ab9f1a44770958246ddee1e25a0748ca8c4597daceadebe7ecd3b59b50df7951"
+metafile = true
+
+[[files]]
+file = "mods/no_fog.pw.toml"
+hash = "406ffdbc7103ccdc433a12e6c285c3a6646f96c6687ec7e6edd29caacea9b04c"
+metafile = true
+
+[[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "a2e4e7b3b072d44a518ac1313c88d6f3b17727d554f700d91c7b4eb3588de50c"
+metafile = true
+
+[[files]]
+file = "mods/ordinarytweaks.pw.toml"
+hash = "db1513d908b5ea0b6329f3da9d543eab872693fe74db023e3a13530313c851d8"
+metafile = true
+
+[[files]]
+file = "mods/purpurclient.pw.toml"
+hash = "5d98a43fb22985b4d64de3e1b232996d7ae4e8955d724e5efc7c4777f2916c9a"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "c9b5c7f923336eb60458492ee72e30471edefa0b5b897d279def756101895737"
+metafile = true
+
+[[files]]
+file = "mods/qsl.pw.toml"
+hash = "505d4e687dfe10d15b9631b7ca349d7862c07183e8342f63504b7b46b1087114"
+metafile = true
+
+[[files]]
+file = "mods/quilt-loading-screen.pw.toml"
+hash = "77aa1af076bfb1175a407037a2d1db80437bae5193db45a557f5f32b3cc4a67f"
+metafile = true
+
+[[files]]
+file = "mods/rebind-all-the-keys.pw.toml"
+hash = "b1d2c566b87b0467ee4c53a64f2f659536d7a1e74e6546a788b1425ffd4284ed"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "1aae05e6f09e1883875e38bb77479d049fbc64d60a2215133fa747ed512205b2"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "aa4dcf55ac3191b0b31437521714c1d28364c3396cf06ef07fa76a08488c1837"
+metafile = true
+
+[[files]]
+file = "mods/starlight.pw.toml"
+hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
+metafile = true
+
+[[files]]
+file = "mods/ukulib.pw.toml"
+hash = "84bc15a83427e9111d43d7df3dde78541508816b8cadc355800939caa1ec104e"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+metafile = true
+
+[[files]]
+file = "resourcepacks/Default-Dark-Mode.zip"
+hash = "ed81ff011e2faf5569e86bbda0d2b7a7df106dbb0cb7669067e6c79dff1a475b"
+
+[[files]]
+file = "resourcepacks/VanillaTweaks_Smooth_Font.zip"
+hash = "195b9ecc9de6aca91d03482164234cfcac08dd949959f441124de8050307a6d4"

@@ -1,0 +1,13 @@
+name = "MoreMouseKeybinds"
+filename = "MoreMouseKeybinds-1.2.1.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/VASn25jt/versions/stkpQF7C/MoreMouseKeybinds-1.2.1.jar"
+hash-format = "sha1"
+hash = "99ebe8e61b6865b5055007b4f60c03689a610245"
+
+[update]
+[update.modrinth]
+mod-id = "VASn25jt"
+version = "stkpQF7C"

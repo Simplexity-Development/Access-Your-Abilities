@@ -3,6 +3,8 @@
   "invisibleTotem": false,
   "betterHorseHUD": false,
   "fullBright": false,
+  "disableScoreboard": false,
+  "offHandSlotLoc": "VANILA",
   "hideTutorialToasts": true,
   "hideAdvancementToasts": false,
   "hideRecipeUnlockToasts": false,

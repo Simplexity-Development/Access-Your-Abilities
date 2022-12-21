@@ -1,0 +1,13 @@
+name = "HitBox+"
+filename = "hitboxplus-1.19.2-0.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/nbkDyHgy/versions/LRmLelAW/hitboxplus-1.19.2-0.2.2.jar"
+hash-format = "sha1"
+hash = "709525b9636ec1d81970b649a96f87b24ea0441b"
+
+[update]
+[update.modrinth]
+mod-id = "nbkDyHgy"
+version = "LRmLelAW"

@@ -184,11 +184,6 @@ hash = "e8527933a80c6fbea6b7c6ec36b2d6728f1609d526ff9e02dd87eb4362b92ed5"
 metafile = true
 
 [[files]]
-file = "mods/auto-crouch.pw.toml"
-hash = "84a6021079b44ee56b390d4e02941c33f5950a5ef32b5d8c71a54f3c1a3d7129"
-metafile = true
-
-[[files]]
 file = "mods/autorun.pw.toml"
 hash = "b294f67ca50e4cccc40a75b3314f50ef3e8aadc3e7300049a947e26a90d8ae06"
 metafile = true
@@ -236,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/grid.pw.toml"
 hash = "edeb9b97aa7ea7b5b1ee612b14815a2faebd90fbc33e17661d8bd6f5cb205a86"
+metafile = true
+
+[[files]]
+file = "mods/hitboxplus.pw.toml"
+hash = "3f6b8faf52cba415ff99d37197022f0ce98159c67fe3566818e976f215596660"
 metafile = true
 
 [[files]]
@@ -301,11 +301,6 @@ metafile = true
 [[files]]
 file = "mods/randomblockplacement.pw.toml"
 hash = "38315a0240fde56f949f7a4d3eb26c6190d9715e49184dd0f022a3d561f4b057"
-metafile = true
-
-[[files]]
-file = "mods/rebind-all-the-keys.pw.toml"
-hash = "b1d2c566b87b0467ee4c53a64f2f659536d7a1e74e6546a788b1425ffd4284ed"
 metafile = true
 
 [[files]]

@@ -1,3 +1,6 @@
 Credits:
-Vanilla Tweaks: https://vanillatweaks.net/
+Vanilla Tweaks Packs: https://vanillatweaks.net/
 Default Dark Mode: https://modrinth.com/resourcepack/default-dark-mode
+Open Dyslexic Font: https://modrinth.com/resourcepack/opendyslexicfont
+WorldEdit CUI: https://www.curseforge.com/minecraft/mc-mods/worldeditcui-fabric
+Colorful subtitles: https://www.curseforge.com/minecraft/mc-mods/colorful-subtitles

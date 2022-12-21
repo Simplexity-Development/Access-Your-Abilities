@@ -25,6 +25,12 @@
       "compact": false,
       "loot_table": true,
       "color": true
+    },
+    "chiseled_bookshelf": {
+      "enabled": true,
+      "compact": false,
+      "loot_table": true,
+      "block_render": true
     }
   },
   "effects": {

@@ -2,31 +2,33 @@
 
 This modpack was made with mostly mobility and visual accessibility in mind, as it's designed around the problems I personally encounter, lol
 
-## Mods added specifically for mobility aid:
-| Mod | Reason | Where configured |
-| --- | --- | --- |
-| Augmented Autojump | Makes autojump far more usable. <br>Jumps a whole jump, vs the half-jump of default auto-jump <br>doesn't constantly try to jump when it doesn't make sense to do so | No configuration |
-| Auto Crouch | Allows auto-crouching when opening a menu. <br>Can help prevent accidentally falling in some situations | Mod Menu |
-| Autorun | Auto walk/run, keybind to hold down walk | Mod Menu |
-|Don't Drop it | Avoid accidentally dropping useful items | Mod Menu|
-|Don't Mine it | Avoid accidentally mining configured blocks | Mod Menu|
-| Flight Helper | Set a preferred angle for elytra flight. | Mod Menu |
-| Mouse Wheelie | Autosort, autorefill hand, autoswitch tools, item scrolling | Mod Menu |
-| Rebind all the keys | Allows for rebinding of vanilla keybinds that are not normally re-bind-able,<br>allowing for keybinds that are easier to reach/use | Mod Menu | 
 
-## Mods for Visual Aid
-| Mod | Reason | Where configured |
-| --- | --- | --- |
-| Better Barriers | Renders barriers like a normal block, <br>instead of constantly rotating and never being able to look at it | Mod Menu |
-| Better Commandblock UI | Easier to view what you've written on a command block | Mod Menu |
-| Better Hurt Cam | Adjustable hurt cam, at 0, it stops the camera shake | Mod Menu |
-| Better Recipe Book | Easier to find recipes, they're in tabs and pinnable | Mod Menu |
-| Colorful Subtitles | Gives a bit more visual context to subtitles, <br>making it easier to tell which are safe to ignore and which are important | Mod Menu |
-| Gamma Utils | Dynamically adjustable gamma- not only limited to fullbright or vanilla brightness | Mod Menu |
-| Inspecio | Visual tooltips | Mod Menu |
-| Light Overlay | Visual overlay of light levels, thresholds and colors are configurable | Mod Menu |
-| No Fog | Contextually disable fog, extremely configurable | Mod Menu |
-| Ordinary Tweaks | Disable toasts, many other options | Mod Menu |
-| Sodium | Disable particles individually, other visual options | Mod Menu |
-| Shulker Box Tooltip | Visual tooltip for shulkers | Mod Menu |
-| Tooltip fix | Stops long tooltips from running off the page | Mod Menu |
+# Mods
+| Mod | What it do |
+| --- |------------|
+| AMECS | Adds more keybind options |
+| Apple skin | Gives a visualization of what foods give what saturation. Removes the constant need to remember saturation levels |
+| Augmented autojump | Makes autojump go a full jump, and makes it generally more useful |
+| Better stats | Options for sorting stats and easier navigation through statistics |
+| Caxton | Makes text sharper and easier to read |
+| Chat heads | Puts an icon of someone's head next to their chat, makes it easier to tell who is talking |
+| Don't mine it | Allows you to make a blacklist of blocks you do not want to mine, and put requirements on what tools you want to be able to mine a block with |
+| Dynamic crosshair | Extremely configurable crosshair |
+| Dynamic FPS | Caps FPS when you're tabbed out of the game |
+| Gamma utils | Configurable gamma levels, allows for changing the brightness past the highest vanilla setting, but still having control below going to fullbright levels |
+| Hitbox Plus | Configurable hitboxes |
+| Jade | Information on the block or entity you're looking at |
+| Lighty | Light information overlay |
+| Model fix | Fixes gap on the edge of models |
+| More Chat History | Allows for scrolling back in chat history way farther |
+| More mouse keybinds | Gives the ability to hold right/left click, or periodically use/attack |
+| Mouse wheelie | Sorting and item movement options |
+| Random block placement | Allows placing blocks randomly |
+| Shulker box tooltip | Gives a visual display of what's in a shulker box instead of a written one |
+| Smooth swapping | Makes the animation for items being removed from/placed into containers - smoother |
+| Sodium | More visual options, optimization |
+| Sodium extra | Particle options, disabling specific particles |
+| Spark | Performance profiler |
+| Stats search | Lets you search your statistics |
+| World Edit CUI | Gives a visual display of your world edit selection |
+| Zoomify | Configurable zoom options |
